@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=0366D6&width=550&height=45&lines=Hi%2C+I'm+Vivek+Vallabhan;Computer+Science+Student;A+Full-Stack+Web+Developer;Passionate+about+Building+Real+World+Projects" alt="Typing Intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=0366D6&width=550&height=45&lines=Hi%2C+I'm+Vivek+Vallabhan;Computer+Science+Student;A+Full-Stack+Web+Developer;Love+Building+Real+World+Projects" alt="Typing Intro"/>
 </p>
 
 ---
