@@ -74,6 +74,18 @@ I love developing solutions that have real-life impact and writing clean code th
 
 ---
 
+---
+
+### 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"><br>Pull Shark
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"><br>YOLO
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"><br>Quickdraw
+</p>
+
+---
+
 ## 📫 Reach Me
 📧 **Email:** vvivek.1804@gmail.com  
 🌐 **Portfolio:** [vivek-vallabhan-portfolio.onrender.com](https://vivek-vallabhan-portfolio.onrender.com/)
