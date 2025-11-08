@@ -79,12 +79,13 @@ I love developing solutions that have real-life impact and writing clean code th
 ### 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"><br>Pull Shark
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"><br>YOLO
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"><br>Quickdraw
+  <a href="#"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" style="margin: 0 10px;"><br><sub>Pull Shark</sub></a>
+  <a href="#"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" style="margin: 0 10px;"><br><sub>YOLO</sub></a>
+  <a href="#"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" style="margin: 0 10px;"><br><sub>Quickdraw</sub></a>
 </p>
 
 ---
+
 
 ## 📫 Reach Me
 📧 **Email:** vvivek.1804@gmail.com  
