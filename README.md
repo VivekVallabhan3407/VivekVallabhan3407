@@ -78,13 +78,25 @@ I love developing solutions that have real-life impact and writing clean code th
 
 ### 🏅 GitHub Achievements
 
-<p align="center">
-  <a href="#"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" style="margin: 0 10px;"><br><sub>Pull Shark</sub></a>
-  <a href="#"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" style="margin: 0 10px;"><br><sub>YOLO</sub></a>
-  <a href="#"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" style="margin: 0 10px;"><br><sub>Quickdraw</sub></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"><br>
+      <sub><b>Pull Shark</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"><br>
+      <sub><b>YOLO</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"><br>
+      <sub><b>Quickdraw</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 
 ## 📫 Reach Me
