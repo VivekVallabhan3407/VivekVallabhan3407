@@ -70,8 +70,8 @@ I love developing solutions that have real-life impact and writing clean code th
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats-custom-display-mu69xkdde.vercel.app/api?username=VivekVallabhan3407&show_icons=true&theme=react&cache_seconds=0&v=1" height="165">
-  <img src="https://github-readme-stats-custom-display-mu69xkdde.vercel.app/api/top-langs/?username=VivekVallabhan3407&layout=compact&theme=default&cache_seconds=0&v=1" height="165">
+  <img src="https://github-readme-stats-custom-display-mu69xkdde.vercel.app/api?username=VivekVallabhan3407&show_icons=true&theme=react&cache_seconds=0&v=2" height="165">
+  <img src="https://github-readme-stats-custom-display-mu69xkdde.vercel.app/api/top-langs/?username=VivekVallabhan3407&layout=compact&theme=default&cache_seconds=0&v=2" height="165">
 </p>
 
 ---
