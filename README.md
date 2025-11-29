@@ -71,8 +71,8 @@ I love developing solutions that have real-life impact and writing clean code th
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="./assets/stats-card.png" height="165" />
-  <img src="./assets/top-languages.png" height="165" />
+  <img src="./assets/stats-card.png" height="185" />
+  <img src="./assets/top-languages.png" height="185" />
 </p>
 
 ---
