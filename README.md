@@ -102,6 +102,10 @@ I love developing solutions that have real-life impact and writing clean code th
 
 ---
 
+## Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 
 ## 📫 Reach Me
