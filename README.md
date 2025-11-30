@@ -104,7 +104,10 @@ I love developing solutions that have real-life impact and writing clean code th
 
 ## Random Dev Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+### 📜 Favorite Developer Quote  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=%22First,+solve+the+problem.+Then+write+the+code.%22+-+John+Johnson;"/>
+</p>
 
 
 
