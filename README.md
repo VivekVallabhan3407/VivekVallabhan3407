@@ -106,7 +106,7 @@ I love developing solutions that have real-life impact and writing clean code th
 
 ### 📜 Favorite Developer Quote  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=First,+solve+the+problem.+Then+write+the+code.&author=John+Johnson" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=If+you+optimize+everything,+you+will+always+be+unhappy.&author=Donald+Knuth" />
 </p>
 
 
