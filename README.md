@@ -116,4 +116,4 @@ I love developing solutions that have real-life impact and writing clean code th
 
 ---
 
-⭐ *Thanks for visiting! Feel free to explore my repositories and projects.*
+⭐ *Thanks for visiting! Feel free to explore my repositories and projects. You can contact me from the email provided above.*
