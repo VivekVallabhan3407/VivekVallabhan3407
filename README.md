@@ -11,7 +11,7 @@ I love developing solutions that have real-life impact and writing clean code th
 
 - 🎯 Interested in software applications with real-life purpose  
 - 💡 Building projects that combine analytics and design  
-- 🔍 Learning: NextJs,GraphQL and Backend Development  
+- 🔍 Learning: NextJs,Angular, GraphQL and Backend Development  
 - Learning System Design Concepts.
 
 ---
